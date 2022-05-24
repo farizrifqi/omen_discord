@@ -1,0 +1,17 @@
+{
+    "debug": true,
+    "server":{
+        "ip": "localhost",
+        "port": 30120
+    },
+    "discord": {
+        "bot_token": "",
+        "guildId": ""
+    },
+
+    "version": {
+        "discordroles": "1.0.2",
+        "omen_discord": "1.0.0"
+    }
+}
+  

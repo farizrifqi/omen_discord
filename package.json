@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "fs": "^0.0.1-security",
+    "@citizenfx/server": "^1.0.2915-1",
+    "axios": "^0.20.0"
+  },
+  "name": "omen_discord",
+  "description": "Interact fivem with discord.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farizrifqi/omen_discord.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farizrifqi/omen_discord/issues"
+  },
+  "homepage": "https://github.com/farizrifqi/omen_discord#readme",
+  "keywords": []
+}
